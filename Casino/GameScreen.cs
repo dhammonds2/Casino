@@ -37,5 +37,11 @@ namespace Casino
 
             this.Hide();
         }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            GlobalStuff.gCraps.Show();
+            this.Hide();
+        }
     }
 }

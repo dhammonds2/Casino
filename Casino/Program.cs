@@ -15,6 +15,7 @@ namespace Casino
             GlobalStuff.gRoulette = new Roulette();
             GlobalStuff.gBlackJack = new BlackJack();
             GlobalStuff.gPoker = new Poker();
+            GlobalStuff.gCraps = new Craps();
             Application.Run(new StartScreen());
         }
     }
