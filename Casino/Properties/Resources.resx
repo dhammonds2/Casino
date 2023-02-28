@@ -118,20 +118,65 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="BlackJackTable" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BlackJackTable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="RouletteWheel_SingleZero" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\RouletteWheel_SingleZero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="deal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\deal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CrapsBoard" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\CrapsBoard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Slot Machine Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slot Machine Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chip20" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chip20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chip5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chip5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chip100" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chip100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Blackjack Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Blackjack Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="HandSheet" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\HandSheet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Craps Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Craps Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Chip1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chip1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Roulette Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Roulette Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Chip500" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Chip500.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Casino Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Casino Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Chip50" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Chip50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Chip5000" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Chip5000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Blackjack Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Blackjack Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Generic Felt Mat" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Generic Felt Mat.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Casino Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Casino Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Poker Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Poker Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Chip10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Chip10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,61 +184,22 @@
   <data name="cardBack_blue2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\cardBack_blue2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Chip50" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Chip50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="RouletteWheel_SingleZero" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\RouletteWheel_SingleZero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Roulette_SingleZero" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Roulette_SingleZero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Chip5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Chip5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Chip1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Chip1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Chip20" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Chip20.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BlackJackTable" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BlackJackTable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="ButtonDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ButtonDown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Generic Felt Mat" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Generic Felt Mat.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Back" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Back.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="play" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="deal" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\deal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Poker Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Poker Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Slot Machine Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Slot Machine Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Chip100" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Chip100.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Craps Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Craps Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Roulette Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Roulette Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Chip1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Chip1000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="play" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\play.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="PokerTable" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PokerTable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Roulette_SingleZero" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Roulette_SingleZero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="roll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\roll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

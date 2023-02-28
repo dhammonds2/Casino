@@ -223,6 +223,16 @@ namespace Casino.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap CrapsBoard {
+            get {
+                object obj = ResourceManager.GetObject("CrapsBoard", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap deal {
             get {
                 object obj = ResourceManager.GetObject("deal", resourceCulture);
@@ -276,6 +286,16 @@ namespace Casino.Properties {
         internal static System.Drawing.Bitmap PokerTable {
             get {
                 object obj = ResourceManager.GetObject("PokerTable", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap roll {
+            get {
+                object obj = ResourceManager.GetObject("roll", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

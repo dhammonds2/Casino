@@ -11,6 +11,7 @@ namespace Casino
         public static GameScreen gGameScreen;
         public static Roulette gRoulette;
         public static BlackJack gBlackJack;
+        public static Craps gCraps;
         public static Poker gPoker;
     }
 }
