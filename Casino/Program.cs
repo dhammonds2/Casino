@@ -13,6 +13,8 @@ namespace Casino
             ApplicationConfiguration.Initialize();
             GlobalStuff.gGameScreen = new GameScreen();
             GlobalStuff.gRoulette = new Roulette();
+            GlobalStuff.gBlackJack = new BlackJack();
+            GlobalStuff.gPoker = new Poker();
             Application.Run(new StartScreen());
         }
     }

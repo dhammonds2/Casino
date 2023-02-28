@@ -10,30 +10,26 @@ using System.Windows.Forms;
 
 namespace Casino
 {
-    public partial class GameScreen : Form
+    public partial class Poker : Form
     {
-        public GameScreen()
+        public Poker()
         {
             InitializeComponent();
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
-            GlobalStuff.gBlackJack.Show();
 
-            this.Hide();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void pictureBox9_Click(object sender, EventArgs e)
         {
-            GlobalStuff.gRoulette.Show();
 
-            this.Hide();
         }
 
-        private void pictureBox3_Click(object sender, EventArgs e)
+        private void pictureBox13_Click(object sender, EventArgs e)
         {
-            GlobalStuff.gPoker.Show();
+            GlobalStuff.gGameScreen.Show();
 
             this.Hide();
         }
