@@ -39,6 +39,7 @@
             this.pictureBox9 = new System.Windows.Forms.PictureBox();
             this.pictureBox10 = new System.Windows.Forms.PictureBox();
             this.pictureBox11 = new System.Windows.Forms.PictureBox();
+            this.pictureBox12 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
@@ -50,6 +51,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -77,6 +79,7 @@
             // 
             // pictureBox3
             // 
+            this.pictureBox3.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
             this.pictureBox3.Image = global::Casino.Properties.Resources.Chip1;
             this.pictureBox3.Location = new System.Drawing.Point(572, 820);
             this.pictureBox3.Name = "pictureBox3";
@@ -87,6 +90,7 @@
             // 
             // pictureBox4
             // 
+            this.pictureBox4.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
             this.pictureBox4.Image = global::Casino.Properties.Resources.Chip5;
             this.pictureBox4.Location = new System.Drawing.Point(672, 820);
             this.pictureBox4.Name = "pictureBox4";
@@ -97,6 +101,7 @@
             // 
             // pictureBox5
             // 
+            this.pictureBox5.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
             this.pictureBox5.Image = global::Casino.Properties.Resources.Chip10;
             this.pictureBox5.Location = new System.Drawing.Point(791, 820);
             this.pictureBox5.Name = "pictureBox5";
@@ -107,6 +112,7 @@
             // 
             // pictureBox6
             // 
+            this.pictureBox6.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
             this.pictureBox6.Image = global::Casino.Properties.Resources.Chip20;
             this.pictureBox6.Location = new System.Drawing.Point(920, 820);
             this.pictureBox6.Name = "pictureBox6";
@@ -117,6 +123,7 @@
             // 
             // pictureBox7
             // 
+            this.pictureBox7.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
             this.pictureBox7.Image = global::Casino.Properties.Resources.Chip50;
             this.pictureBox7.Location = new System.Drawing.Point(1052, 820);
             this.pictureBox7.Name = "pictureBox7";
@@ -127,6 +134,7 @@
             // 
             // pictureBox8
             // 
+            this.pictureBox8.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
             this.pictureBox8.Image = global::Casino.Properties.Resources.Chip100;
             this.pictureBox8.Location = new System.Drawing.Point(1168, 820);
             this.pictureBox8.Name = "pictureBox8";
@@ -138,6 +146,7 @@
             // 
             // pictureBox9
             // 
+            this.pictureBox9.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
             this.pictureBox9.Image = global::Casino.Properties.Resources.Chip1000;
             this.pictureBox9.Location = new System.Drawing.Point(1263, 820);
             this.pictureBox9.Name = "pictureBox9";
@@ -149,6 +158,7 @@
             // 
             // pictureBox10
             // 
+            this.pictureBox10.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
             this.pictureBox10.Image = global::Casino.Properties.Resources.Chip5000;
             this.pictureBox10.Location = new System.Drawing.Point(1353, 820);
             this.pictureBox10.Name = "pictureBox10";
@@ -168,12 +178,25 @@
             this.pictureBox11.TabIndex = 10;
             this.pictureBox11.TabStop = false;
             // 
+            // pictureBox12
+            // 
+            this.pictureBox12.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
+            this.pictureBox12.Image = global::Casino.Properties.Resources.Back;
+            this.pictureBox12.Location = new System.Drawing.Point(89, 809);
+            this.pictureBox12.Name = "pictureBox12";
+            this.pictureBox12.Size = new System.Drawing.Size(238, 86);
+            this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox12.TabIndex = 11;
+            this.pictureBox12.TabStop = false;
+            this.pictureBox12.Click += new System.EventHandler(this.pictureBox12_Click);
+            // 
             // Roulette
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Casino.Properties.Resources.Generic_Felt_Mat;
             this.ClientSize = new System.Drawing.Size(1714, 896);
+            this.Controls.Add(this.pictureBox12);
             this.Controls.Add(this.pictureBox11);
             this.Controls.Add(this.pictureBox10);
             this.Controls.Add(this.pictureBox9);
@@ -198,6 +221,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox11)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -215,5 +239,6 @@
         private PictureBox pictureBox9;
         private PictureBox pictureBox10;
         private PictureBox pictureBox11;
+        private PictureBox pictureBox12;
     }
 }
