@@ -121,11 +121,17 @@
   <data name="BlackJackTable" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BlackJackTable.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Wheel - Melon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wheel - Melon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="RouletteWheel_SingleZero" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\RouletteWheel_SingleZero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="deal" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\deal.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="roll" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\roll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="CrapsBoard" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\CrapsBoard.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -166,6 +172,9 @@
   <data name="Chip50" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Chip50.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Slot Machine Barrel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Slot Machine Barrel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Chip5000" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Chip5000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -178,6 +187,9 @@
   <data name="Poker Icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Poker Icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="spinsheet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\spinsheet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Chip10" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Chip10.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -186,6 +198,9 @@
   </data>
   <data name="ButtonDown" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ButtonDown.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Wheel - Seven" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Wheel - Seven.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Chip1000" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Chip1000.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -199,7 +214,7 @@
   <data name="Roulette_SingleZero" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Roulette_SingleZero.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="roll" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\roll.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Spin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Spin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

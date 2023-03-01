@@ -333,9 +333,59 @@ namespace Casino.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Slot_Machine_Barrel {
+            get {
+                object obj = ResourceManager.GetObject("Slot Machine Barrel", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Slot_Machine_Icon {
             get {
                 object obj = ResourceManager.GetObject("Slot Machine Icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Spin {
+            get {
+                object obj = ResourceManager.GetObject("Spin", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap spinsheet {
+            get {
+                object obj = ResourceManager.GetObject("spinsheet", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Wheel___Melon {
+            get {
+                object obj = ResourceManager.GetObject("Wheel - Melon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Wheel___Seven {
+            get {
+                object obj = ResourceManager.GetObject("Wheel - Seven", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
